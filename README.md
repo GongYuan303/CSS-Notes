@@ -16,5 +16,6 @@
 
 我喜爱交流、学习的人。如果志同道合，需要交流沟通，请加我微信（ming35870）：
 
-![](https://github.com/GongYuan303/gongyuan303.github.io/tree/master/assets/weixin.jpg)
+![](http://img.smyhvae.com/20190101.png)
+![](https://github.com/GongYuan303/gongyuan303.github.io/tree/master/assets/weixin.png)
 
