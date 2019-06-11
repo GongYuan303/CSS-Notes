@@ -16,5 +16,5 @@
 
 我喜爱交流、学习的人。如果志同道合，需要交流沟通，请加我微信（ming35870）：
 
-![](http://img.smyhvae.com/20190101.png)
+<!-- ![](http://img.smyhvae.com/20190101.png) -->
 
