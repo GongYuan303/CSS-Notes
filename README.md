@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-- 项目地址：<https://github.com/GongYuan303/CSS3-100-Days>
+- 项目地址：<https://github.com/GongYuan303/CSS3-Notes>
 
 前端工程师必会技能(html+js+css)中css学习笔记，记录日常的学习。从零开始学前端，做一个web全栈工程师。持续更新中...
 
