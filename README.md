@@ -21,6 +21,7 @@
 
 知识整理
 1、canvas特殊效果展示地址：https://www.html5tricks.com/
+
 2、canvas方法使用和介绍学习
 
 
