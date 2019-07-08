@@ -17,3 +17,9 @@
 我喜爱交流、学习的人。如果志同道合，需要交流沟通，请加我微信（ming35870)
 
 <div align="center"><img width="300px" src="http://blogimg.manaobei.cn/FiZ1lRqqXBHs5iR1oOw9sOj_yZFF"></img></div>
+
+
+知识整理
+canvas特殊效果展示地址：https://www.html5tricks.com/
+
+
